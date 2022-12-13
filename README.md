@@ -27,6 +27,7 @@ Transpile hindiscript to javascript with below code
 This will create an output.js file in the current folder.
 
 Default language is Hindi. Change language through -l argument.
+
 `hindiscript test.hs -l  gujarati`
 
 Supported languages
