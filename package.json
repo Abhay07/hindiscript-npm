@@ -1,6 +1,6 @@
 {
   "name": "hindiscript",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "",
   "main": "./lib/index.js",
   "type":"module",
@@ -12,7 +12,7 @@
   "bin":{
     "hindiscript":"./bin/demo-global.js"
   },
-  "homepage":"https://github.com/Abhay07/hindiscript-npm/",
+  "homepage":"https://hindiscript.abhikalp.org",
   "preferGlobal": true,
   "keywords": ["hindiscript","transpiler","javascript"]
 }
