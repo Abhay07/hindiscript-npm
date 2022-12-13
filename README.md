@@ -1,14 +1,14 @@
-##Hindiscript
+## Hindiscript
 
-####Installing
+### Installing
 Install hindiscript npm module globally
 
 `npm install -g hindiscript`
 
-####Usage
+#### Usage
 Create a .hs file with hindiscript code
 
-####Sample Hindiscript code 
+#### Sample Hindiscript code 
 ```javascript
 //Sample hindiscript code - test.hs
 maanteHain x = 5;
